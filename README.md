@@ -10,6 +10,7 @@ ReactJs Amazon Clone Application with Stripe Created card processing.
 - Cors
 - Express
 - Stripe
+- imageData.json file
 
 # Frontend
 - Material UI --  npm i @material-ui/core
